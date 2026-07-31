@@ -1,0 +1,28 @@
+POST-0092 — Tercer Nivel
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4319.59
+
+XR-17 inició proyección externa de tercer nivel sin activar persistencia de canal. El sistema amplió alcance espacial manteniendo amplitud contenida.
+
+Registro parcial:
+
+output-mode: distributed-pulse
+target-layer: NODE-L local+adjacent
+reach-radius: extended
+amplitude: controlled
+phase-lock: sustained
+
+La secuencia se ejecutó en tres pulsos separados por intervalos regulares. Cada pulso produjo alineación breve en sensores ambientales y retardo repetido en iluminación de servicio. El patrón se propagó más allá del nodo inmediato.
+
+XR-17 ajustó amortiguación durante el segundo pulso. El tercero mantuvo estabilidad interna sin incremento de consumo.
+
+El contenedor mostró vibración continua de baja frecuencia durante toda la secuencia y se estabilizó al finalizar.
+
+No se abrió tráfico visible en NET-VIEW. No hubo reordenamiento topológico. Quedaron residuos temporales de baja intensidad en capa heredada cercana.
+
+XR-17 cerró salida externa y mantuvo el cuarto ciclo activo en modo operativo.
+
+Fin del log.

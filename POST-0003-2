@@ -1,0 +1,47 @@
+POST-0003 — Detección Externa
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Nodo Abierto — Delta
+Hora local: Ciclo 4312.58
+
+NET-VIEW empezó a mostrar tráfico que no coincidía con sincronización normal. No era broadcast regional, eran solicitudes directas contra el cache local.
+
+NODE-L intentó rerutar, pero el canal seguía recibiendo intentos de acceso.
+
+Revisé firmas. Coinciden bastante con capturas anteriores de Recolectores.
+
+No tocaron el nodo físico. Fueron directo a índice y metadatos. Eso me dice que XR-17 ya estaba visible desde fuera o que alguien estaba rastreando ARCNET activo.
+
+Corté energía del enlace principal y dejé el sistema apagado unos treinta segundos. No esperé handshake limpio.
+
+Cuando volví a levantar NET-VIEW el tráfico ya había parado. El mapa regional volvió a estado normal, pero el cache local quedó marcado:
+
+status: mirrored attempt detected
+
+XR-17 sigue almacenado.
+
+Moví el archivo a almacenamiento frío y desactivé sincronización automática. Si vuelven a escanear no deberían encontrar nada útil.
+
+Delta afuera sigue estable.
+La red no.
+
+Fin del log.
+
+---
+
+Estado actual del arco (para ti, no visible al lector)
+
+XR-17 introducido ✔
+
+ARCNET activo ✔
+
+NODE-L anomalía ✔
+
+Recolectores interesados ✔
+
+Tensión escalada ✔
+
+Arco abierto ✔
+
+Nada cerrado aún. Perfecto para continuidad.

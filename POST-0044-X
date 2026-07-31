@@ -1,0 +1,34 @@
+POST-0044 — Corte de Servicio
+
+Tipo: FIELD NOTE
+Autor: Operador de Red Local (no registrado)
+Origen: Distrito Residencial Norte
+Hora local: Ciclo 4316.55
+
+La red se volvió inestable durante casi veinte minutos.
+
+No fue apagón completo. Los terminales seguían encendiendo, pero las rutas internas cambiaban solas. Mensajería local tardaba en sincronizar y varios nodos domésticos quedaron fuera de malla.
+
+Recibí alertas automáticas desde NODE-L viejo, algo que no pasaba desde hace meses. Marcaban “reorganización de tráfico heredado”, sin detalles técnicos claros.
+
+Reinicié dos veces los controladores del distrito. No sirvió. El sistema se estabilizó solo, de golpe, como si alguien hubiera terminado una operación.
+
+Después de eso todo volvió a la normalidad, pero quedaron residuos de sesión en los logs. Rutas que no deberían haberse tocado.
+
+No elevé reporte central. Estas cosas atraen auditorías que no convienen.
+
+Anoté hora y patrón. Si vuelve a pasar, voy a desconectar el enlace externo durante la ventana.
+
+Fin de nota.
+
+---
+
+Efecto narrativo:
+
+Confirma impacto masivo ✔
+
+NODE-L profundo activo ✔
+
+Escalada fuera de zonas técnicas ✔
+
+Mundo civil afectado ✔

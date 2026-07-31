@@ -1,0 +1,25 @@
+POST-0095 — Adelanto Directo
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (tramo norte / pasarela técnica)
+Hora local: Ciclo 4319.74
+
+SB-F proyectó continuidad de estabilidad hacia el tramo norte usando latencia constante y fase acumulada. No apareció borde de ventana. La alineación se mantuvo como campo extendido.
+
+Nos adelantamos dos segmentos sin activar mapa dinámico. Usamos referencias físicas: juntas de piso, marcas de mantenimiento y vibración de ductos.
+
+La estabilidad persistió durante el desplazamiento. No hubo micro-lag de transición. El corredor mantuvo ruido bajo y respuesta uniforme.
+
+Tomamos posición en pasarela técnica elevada con vista parcial del eje. Permanecimos inmóviles.
+
+El objeto móvil cruzó nuevamente por el tramo adelantado. Velocidad constante. Trayectoria recta. No hubo corrección lateral. La cola de interferencia fue mínima y se disipó rápido.
+
+SB-F cerró captura y confirmó continuidad de fase entre los tres cruces consecutivos. El intervalo entre eventos se redujo de forma progresiva.
+
+Después del tránsito, el corredor no recuperó ruido base inmediato. La alineación se mantuvo varios segundos más.
+
+Guardamos secuencia completa y desplazamiento acumulado. La repetición bajo estabilidad sostenida no coincide con comportamiento inducido por cierres.
+
+Fin del log.

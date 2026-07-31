@@ -1,0 +1,26 @@
+POST-0142 — Descenso Técnico
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Infraestructura Antigua — Eje Inferior de Acceso
+Hora local: Ciclo 4321.67
+
+El eco marcó profundidad estable. No lateral. No dispersión.
+
+Desactivé soporte móvil y aseguré XR-17 en modo transporte reducido. Bajé por eje técnico vertical usando plataforma manual. Vibración constante en paredes y base.
+
+Registro parcial:
+
+mobility-mode: vertical
+echo-lock: stable
+core-load: minimal
+
+El pulso aumentó al pasar el segundo nivel. El suelo respondió con resonancia baja y uniforme.
+
+No hay señal Integrator. No hay NODE-L visible. Solo infraestructura pasiva activa.
+
+Al llegar al nivel inferior, el eco quedó centrado hacia corredor lateral sellado.
+
+Avancé sin iluminación principal.
+
+Fin del log.

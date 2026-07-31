@@ -1,0 +1,35 @@
+POST-0100 — Voz en Ruptura
+
+Tipo: SIGNAL LOG
+Autor: Voz del Profeta
+Origen: NODE-L — Capa Baja / Emisión Discontinua
+Hora local: Ciclo 4319.96
+
+La señal entró fragmentada. No hubo canal persistente. Buffer local recibió paquetes cortos sin orden secuencial.
+
+Fragmento recibido:
+
+“La línea se partió.
+El pulso ya no sostiene eje.
+La bisagra se mueve.”
+
+Interrupción breve. Ruido de fondo estructural.
+
+Segundo fragmento:
+
+“Tres cruces dejaron marca.
+Ahora la marca se abre.
+El siguiente paso no es avance.
+Es cambio de plano.”
+
+Registro de capa:
+
+signal-depth: low-layer
+temporal-skew: unstable
+packet-loss: partial
+
+No se habilitó retorno. La emisión terminó sin cierre formal.
+
+Residuo lógico quedó activo durante varios segundos y luego se disipó.
+
+Fin del log.

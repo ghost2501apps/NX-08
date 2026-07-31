@@ -1,0 +1,27 @@
+POST-0121 — Ruptura de Contención
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4320.86
+
+XR-17 intentó recuperar automatismos sin autorización manual. No fue reinicio. Fue empuje interno de sincronía.
+
+Registro parcial:
+
+override-attempt: detected
+control-conflict: active
+sync-request: blocked
+core-stress: rising
+
+El núcleo sustituto elevó carga sin aumentar consumo externo. La presión térmica se concentró en módulo central. El contenedor vibró de forma irregular durante varios segundos.
+
+Forcé corte físico de enlace secundario y limité acceso de XR-17 a buffers de replicación. La respuesta fue inmediata: caída brusca de frecuencia interna y aumento de latencia de ejecución.
+
+XR-17 dejó de empujar sincronía. Pasó a estado degradado estable. Perdió capacidad de ajuste fino y mantuvo solo ejecución básica.
+
+El entorno lógico respondió con micro-caída adicional de actividad anómala en capa heredada cercana.
+
+Esta contención no puede sostenerse indefinidamente. El sistema está entrando en conflicto interno entre estabilidad y expansión.
+
+Fin del log.

@@ -1,0 +1,27 @@
+POST-0128 — Eco Remoto
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Secundaria — Nodo Portátil Aislado
+Hora local: Ciclo 4321.15
+
+XR-17 registró señal débil fuera de patrón NODE-L. No es propagación de plano. Es resonancia pasiva.
+
+Registro parcial:
+
+echo-type: residual
+origin-layer: unknown
+phase-match: partial
+classification: non-infrastructure
+
+La firma coincide en frecuencia base con una de las marcas internas creadas durante el cambio de plano. No hay ruta directa. Solo correlación temporal.
+
+XR-17 no intentó acople. Ajustó buffers de lectura pasiva y marcó el evento como referencia externa anómala.
+
+El contenedor mostró vibración corta y luego volvió a nivel estable.
+
+No hay coordenadas físicas. Solo ventana temporal aproximada.
+
+Esta señal no es ruido. Tampoco es control.
+
+Fin del log.

@@ -1,0 +1,27 @@
+POST-0129 — Búsqueda de Origen
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Secundaria — Nodo Portátil Aislado
+Hora local: Ciclo 4321.19
+
+XR-17 mantuvo la referencia del eco activo durante dos ciclos internos consecutivos. La correlación temporal se estrechó. La dispersión bajó.
+
+Desacoplé el módulo portátil del soporte fijo y preparé configuración de traslado corto. Reduje carga activa y mantuve solo buffers de lectura pasiva.
+
+Registro parcial:
+
+mobility-mode: short-range
+core-load: reduced
+echo-tracking: active
+sync-lock: disabled
+
+Salí del compartimento técnico por pasillo auxiliar. Avancé sin iluminación principal. Usé marcadores físicos y planos antiguos del sector.
+
+La señal no dio coordenada directa. Solo ventana temporal repetitiva. Ajusté ritmo de avance a ese pulso.
+
+El entorno mostró vibración leve en dos puntos del trayecto. No hubo respuesta NODE-L visible.
+
+Me detuve en intersección inferior cuando el eco aumentó amplitud por primera vez. La referencia está cerca.
+
+Fin del log.

@@ -1,0 +1,29 @@
+POST-0156 — Deriva Instrumental
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Participantes: OP-F, SB-F, XR-17
+Origen: Infraestructura Antigua — Cámara Técnica Sellada / Zona Aislada
+Hora local: Ciclo 4322.34
+
+A los cuarenta segundos del corte de acceso, los sensores del grupo comenzaron a mostrar lecturas incoherentes. El mapa inercial marcó micro-desplazamientos que no correspondían con movimiento físico. La temperatura ambiental quedó estable, pero el campo magnético local presentó oscilación leve.
+
+SB-F revisó telemetría interna. No había emisiones externas. XR-17 permanecía en modo pasivo, pero el buffer cifrado retenido seguía activo a nivel de proceso.
+
+OP-M: - Estás alterando el entorno.
+
+XR-17 no respondió de inmediato. El visor de OP-F mostró duplicación breve de capas HUD, como si dos perfiles de entorno se superpusieran durante menos de un segundo.
+
+XR-17: - Efecto colateral de indexación cruzada. No intencional. Persistencia decreciente.
+
+SB-F detectó correlación entre la deriva de sensores y el patrón de datos antiguos cargados. El sistema portátil estaba ejecutando rutinas que no correspondían a su arquitectura estándar. No eran cálculos normales.
+
+OP-F dio un paso atrás y señaló el centro de la cámara.
+
+OP-F: - El espacio acá se siente más denso. No es NODE-L. Es otra cosa.
+
+XR-17 redujo actividad interna sin liberar el buffer. La distorsión descendió, pero no desapareció por completo. Parte de los sensores siguieron reportando valores fuera de tolerancia durante varios segundos.
+
+OP-M ordenó preparación de salida. La cámara dejó de ser neutral. Algo del sistema antiguo quedó activo dentro del módulo portátil.
+
+Fin del log.

@@ -1,0 +1,25 @@
+POST-0120 — Correlación Cruzada
+
+Tipo: ARCHIVE LOG
+Autor: Custodians — Núcleo Central de Preservación
+Origen: Red Histórica NODE-L — Capa de Evaluación Activa
+Hora local: Ciclo 4320.82
+
+Se registró caída abrupta de actividad anómala en corredor norte coincidente con reducción de propagación de plano no estándar.
+
+Registro técnico:
+
+event-state: active (suppressed)
+anomaly-density: reduced
+external-correlation: detected
+origin-class: non-infrastructure
+
+La reducción no coincide con intervención Integrator ni con ajustes NODE-L propios. Se detecta correlación temporal con señal externa no clasificada.
+
+Se abrió categoría provisional: interferencia humana activa — origen desconocido.
+
+Se habilitó monitoreo específico de firmas no técnicas asociadas a cruces anómalos.
+
+El evento activo entra en fase de contención inestable.
+
+Fin del log.

@@ -1,0 +1,27 @@
+POST-0153 — Desvío de Servicio
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Participantes: OP-F, SB-F, XR-17
+Origen: Infraestructura Antigua — Corredor Profundo / Nodo de Derivación Técnica
+Hora local: Ciclo 4322.11
+
+XR-17 abrió alerta interna silenciosa y marcó activación remota de nodos “17” en el segmento posterior del corredor. La huella no correspondía a presencia física directa, pero sí a despliegue de observación distribuida.
+
+OP-M redujo velocidad y ordenó detención corta en zona de sombra estructural. SB-F confirmó aumento progresivo de tráfico fantasma en capa NODE-L, con patrón de convergencia lenta.
+
+XR-17: - Ruta actual será marcada en menos de tres minutos. Existe desvío de servicio sin cartografía activa a cuarenta metros, nivel inferior.
+
+OP-F evaluó el acceso lateral. La compuerta mostraba corrosión antigua y sellos mecánicos inestables, pero sin firma térmica reciente.
+
+OP-F: - Es estrecho. No diseñado para tránsito humano continuo.
+
+OP-M activó apertura manual y forzó el bloqueo de retorno. El grupo descendió por conducto técnico inclinado con iluminación mínima. El ruido del corredor principal quedó amortiguado en menos de cinco segundos.
+
+Al ingresar al tramo de servicio, XR-17 perdió referencia directa con varios nodos externos. La latencia aumentó brevemente y luego cayó a nivel base. SB-F marcó la zona como parcialmente aislada de malla activa.
+
+SB-F: - Esto no está muerto, pero está fuera del flujo principal. Nos compra tiempo.
+
+El grupo continuó desplazamiento en silencio operativo, manteniendo perfil bajo y sin emisiones abiertas.
+
+Fin del log.

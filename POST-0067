@@ -1,0 +1,40 @@
+POST-0067 — Ventana Real
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (segmento central / pasarela baja)
+Hora local: Ciclo 4318.55
+
+SB-F levantó el siguiente patrón sin buscarlo en mapa, solo leyendo coherencia y latencia acumulada del tramo anterior.
+
+La firma era parecida a la del primer cruce, pero más comprimida: micro-lag corto, estabilidad estrecha y una caída secundaria casi imperceptible que ella marcó como “ajuste tardío”. Dijo que esa forma no coincide con preparación de carril ni con cierre, coincide con tránsito real bajo sincronía forzada.
+
+Nos movimos a una pasarela baja que corre paralela al eje del corredor, con visión parcial y ruido estructural constante por vibración de ductos. Apagué proyección de mapa y dejé solo referencias físicas.
+
+La ventana entró con retraso mínimo. Lo noté en el cambio de tono del motor de ventilación y en el salto de dos etiquetas del visor que no deberían haberse actualizado en ese orden.
+
+SB-F no habló. Activó registro y me marcó dirección con un vector corto.
+
+El objeto móvil apareció más cerca que antes, sin iluminación propia, desplazándose por el eje lateral, usando sombra de columna para romper línea directa. La cola de interferencia fue corta y sucia, con degradación al final, igual a la firma previa. No hubo drone acompañando el tramo inmediato, lo que indica que el rastreo todavía está trabajando con predicción y no con contacto directo.
+
+No intenté seguirlo. Ajusté posición para mantener ángulo visual sin cambiar ritmo. SB-F cerró la captura de datos cuando terminó la estabilidad y confirmó coincidencia estructural con el primer evento.
+
+Anotamos dirección, duración exacta y diferencia de fase entre ambos cruces. Eso permite anticipar el siguiente punto con margen corto, sin necesidad de entrar en carriles dibujados.
+
+El corredor volvió a perder coherencia a los pocos segundos. El mapa local se reordenó tarde, lo suficiente para dejar claro que esta vez la red reaccionó después del tránsito.
+
+Seguimos en modo tramo, con prioridad en observación indirecta y sin generar huella activa.
+
+Fin del log.
+
+---
+
+Para POST-0068:
+
+A) SB-F proyecta el siguiente punto de cruce y OP-F se adelanta a posición de observación
+B) Corte: RC-M recibe datos parciales y acelera cierre de anillos internos
+C) Corte: OP-M entra en zona de sincronía y XR-17 reacciona al patrón repetido
+D) MS-F detecta anomalía en MSG-LINK vinculada a los dos cruces
+
+Elige letra.

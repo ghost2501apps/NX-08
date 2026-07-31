@@ -1,0 +1,39 @@
+POST-0017 — Ajuste Forzado
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Industrial Baja
+Hora local: Ciclo 4314.12
+
+Moví XR-17 al sector viejo de generación auxiliar. La infraestructura ahí es más rústica, menos sensores activos y menos integración con NODE-L.
+
+El traslado no fue limpio. Durante el cambio de circuito el módulo volvió a ajustar consumo y el regulador tardó en estabilizar. No generó picos externos, pero el comportamiento interno se volvió más consistente, como si hubiera encontrado un entorno más compatible.
+
+Después de reconectar, aparecieron nuevos datos por el puerto local:
+
+env dependency: matched
+proc-state: extended partial
+
+Eso es nuevo.
+
+No ejecuté nada manualmente. El cambio vino solo por el entorno eléctrico y térmico.
+
+El módulo ahora mantiene carga estable sin forzar la red interna de la estación. Eso reduce riesgo inmediato, pero también significa que XR-17 se está adaptando.
+
+Preparé un contenedor de aislamiento adicional por si tengo que moverlo otra vez rápido. No quiero repetir el fallo energético.
+
+Por ahora lo dejo en observación pasiva. Si vuelve a modificar su estado sin intervención, voy a tener que decidir si sigo conteniendo o si empiezo a interactuar con él de forma controlada.
+
+Fin del log.
+
+---
+
+Estado XR-17:
+
+Entorno compatible detectado ✔
+
+Estado parcial extendido ✔
+
+Adaptación activa ✔
+
+Infraestructura estabilizada ✔

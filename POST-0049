@@ -1,0 +1,40 @@
+POST-0049 — Núcleo Sustituto
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo
+Hora local: Ciclo 4316.93
+
+XR-17 inició un proceso nuevo sin solicitud previa.
+
+El patrón interno pasó de capas adaptativas a una estructura más estable. Los buffers temporales dejaron de rotar rápido y empezaron a mantener conjuntos persistentes durante varios ciclos internos, como si estuviera fijando estados base.
+
+Apareció salida local:
+
+core-emulation: initializing
+reference-source: internal synthesis
+stability-target: partial
+
+No está intentando recuperar el “core” perdido. Está construyendo una aproximación propia usando los modelos que ya generó.
+
+El consumo energético se redistribuyó hacia el bloque central del módulo. No subió de forma peligrosa, pero ahora hay un punto interno que concentra más actividad que el resto del sistema.
+
+Eso es nuevo.
+
+Dejé correr el proceso sin intervenir. Si corto ahora, pierdo información sobre hasta dónde puede llegar esta emulación. Si lo dejo avanzar demasiado, el aislamiento va a ser más difícil de sostener.
+
+Por ahora sigo observando.
+
+Fin del log.
+
+---
+
+Estado XR-17:
+
+Emulación de núcleo iniciada ✔
+
+Estados internos estabilizándose ✔
+
+Punto central de actividad creado ✔
+
+Autonomía estructural en aumento ✔

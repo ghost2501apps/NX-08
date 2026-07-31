@@ -1,0 +1,42 @@
+POST-0004 — Extracción Local
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Nodo Abierto — Delta
+Hora local: Ciclo 4312.90
+
+No voy a dejar XR-17 en Delta.
+
+El almacenamiento frío local no es suficiente si vuelven a escanear por NODE-L o si alguien mapea el nodo físico. Preparé un traslado manual.
+
+Desmonté el módulo donde quedó el archivo. Es hardware viejo, formato híbrido, compatible con ARCNET y con NET-VIEW si se fuerza emulación. Pesa más de lo que parece.
+
+Desactivé toda sincronización automática antes de sacarlo. NET-VIEW quedó aislado. Sin tráfico externo.
+
+Salí del nodo por el corredor este. No usé rutas principales. Generadores portátiles activos, visor apagado la mayor parte del tiempo.
+
+Objetivo: estación industrial abandonada, sector bajo. Hay energía residual y cero cobertura pública.
+
+Durante el trayecto el módulo emitió dos picos eléctricos cortos. No estaba ejecutando procesos visibles, pero algo interno reaccionó al cambio de entorno. Lo dejé en modo pasivo y bajé voltaje.
+
+Llegué sin incidentes.
+
+XR-17 ahora está desconectado de red y almacenado en jaula electromagnética improvisada. No es permanente, pero reduce señales externas.
+
+Delta quedó atrás.
+
+Si alguien estaba observando el nodo original, ahora solo va a encontrar espacio vacío.
+
+Fin del log.
+
+---
+
+Estado del arco XR-17:
+
+Archivo movido físicamente ✔
+
+Nodo Delta limpio ✔
+
+Riesgo aumentado ✔
+
+Nueva ubicación desconocida ✔

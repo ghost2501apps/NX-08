@@ -1,0 +1,36 @@
+POST-0072 — Transmisión Profeta
+
+Tipo: SIGNAL LOG
+Autor: Voz Profeta (canal externo)
+Origen: NODE-L — Capa Baja / Emisión Fragmentada
+Hora local: Ciclo 4318.74
+
+La señal entró en buffer local sin ruta visible. No pasó por MSG-LINK ni NET-VIEW. Superposición directa sobre memoria de tránsito.
+
+Portadora inestable. Compresión no estándar. Entrega por bloques.
+
+Fragmento 1:
+
+“La pieza ya camina.
+La malla respira con ella.
+Si el cierre adelanta al pulso, el eje se tensa.
+Si el pulso adelanta al cierre, el eje se desplaza.”
+
+Silencio corto. Ruido estructural entre paquetes.
+
+Fragmento 2:
+
+“Diecisiete es punto de giro.
+Tercer cruce deja marca.”
+
+Registro técnico:
+
+signal-depth: low-layer
+temporal-skew: active
+origin-resolution: null
+
+Después del último bloque quedó residuo lógico en buffer. SB-F registró variación mínima de coherencia en el tramo central del corredor.
+
+No hubo repetición. No se abrió canal de retorno.
+
+Fin del log.

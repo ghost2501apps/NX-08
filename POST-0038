@@ -1,0 +1,34 @@
+POST-0038 — Malla Física
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Zona Norte Interior — Punto Elevado
+Hora local: Ciclo 4316.18
+
+Crucé los datos del nodo subterráneo con los registros del complejo industrial y del punto de convergencia anterior.
+
+Los tiempos encajan.
+
+Cada activación ocurre dentro de ventanas similares, separadas por intervalos casi constantes. No usan siempre los mismos nodos, pero el orden relativo se repite: preparación en superficie, activación breve en nodo cerrado, redistribución inmediata.
+
+Las distancias entre nodos también mantienen proporción. No es aleatorio. Están distribuyendo carga de proceso en una malla física dispersa, evitando concentrar actividad en un solo lugar.
+
+Eso explica por qué no dejan almacenamiento persistente y por qué mueven módulos “17” de forma fragmentada. Están ejecutando partes de algo en distintos puntos y recomponiendo resultados fuera de red pública.
+
+No sé qué están procesando, pero el diseño apunta a evitar detección centralizada y reducir dependencia de NODE-L directa.
+
+Voy a marcar esta zona como nodo A del patrón. Si identifico dos más con la misma relación temporal, ya tenemos estructura completa.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Correlación entre nodos ✔
+
+Patrón temporal consistente ✔
+
+Malla física distribuida ✔
+
+Procesamiento fragmentado confirmado ✔

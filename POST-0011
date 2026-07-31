@@ -1,0 +1,38 @@
+POST-0011 — Inestabilidad de Energía
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Industrial Baja
+Hora local: Ciclo 4313.47
+
+El banco secundario no sostuvo carga estable cuando conecté XR-17. El regulador empezó a oscilar porque el módulo ajustaba consumo en tiempo real y el sistema no lograba seguirle el ritmo.
+
+Saltaron dos fusibles del anillo interno y perdí iluminación del sector este junto con parte del control ambiental.
+
+Desconecté XR-17 de inmediato y pasé a respaldo manual. Activé el generador auxiliar y dejé la estación en modo mínimo.
+
+Revisé registros locales. El consumo total de XR-17 no subió, pero el patrón no es lineal. No se comporta como carga pasiva ni como proceso estándar. Se parece más a un sistema adaptativo calibrando el entorno.
+
+Eso complica el aislamiento.
+
+Ahora tengo dos problemas claros:
+
+El módulo no se deja estabilizar fácil.
+
+La estación quedó marcada por una caída de energía que puede ser visible desde fuera.
+
+Voy a redistribuir circuitos y mover XR-17 a un sector con infraestructura más vieja y menos monitoreada. No es ideal, pero reduce firma detectable.
+
+Fin del log.
+
+---
+
+Estado XR-17:
+
+Activación parcial ✔
+
+Inestabilidad energética ✔
+
+Infraestructura afectada ✔
+
+Riesgo de detección aumentado ✔

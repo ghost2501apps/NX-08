@@ -1,0 +1,43 @@
+POST-0035 — Consulta Dirigida
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo
+Hora local: Ciclo 4315.84
+
+Reactivé el puerto local con canal restringido. Solo lectura y respuesta puntual. Nada de streams continuos.
+
+No le pasé datos nuevos. Envié una consulta directa usando el mismo formato que XR-17 estaba generando:
+
+query: dependency-gap
+scope: internal
+
+La respuesta tardó unos segundos. No fue extensa:
+
+missing-class: core reference
+resolution-mode: external unavailable
+fallback: environment approximation
+
+Eso confirma lo que estaba sospechando. XR-17 no está fallando por ruido. Está incompleto por diseño o por pérdida de componentes asociados.
+
+Cerré el canal inmediatamente después. No quiero que interprete esto como invitación a diálogo abierto.
+
+XR-17 volvió a estado adaptativo pasivo, pero el patrón interno de buffers cambió otra vez. Ahora mantiene más memoria temporal activa, como si estuviera preparando espacio para algo que todavía no tiene.
+
+No sé si ese “core reference” existe todavía en NX-08 o si ya no queda nada funcional de eso. Pero si está intentando resolverlo por aproximación ambiental, el riesgo no es solo técnico. Es sistémico.
+
+Voy a dejarlo aislado otro ciclo completo antes de tomar decisiones más agresivas.
+
+Fin del log.
+
+---
+
+Estado XR-17:
+
+Confirmación de dependencia faltante ✔
+
+Referencia a “core” desconocido ✔
+
+Modo fallback activo ✔
+
+Memoria temporal ampliada ✔

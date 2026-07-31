@@ -1,0 +1,25 @@
+POST-0071 — Paquete Offline
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (tramo central / pasarela técnica)
+Hora local: Ciclo 4318.71
+
+El paquete llegó por cache local sin handshake visible. Firma antigua, estructura compacta, sin rastro de MSG-LINK activo.
+
+SB-F validó integridad y abrió solo el bloque operativo. Aparecieron rangos aproximados de anillos móviles, patrón de desfase lógico y advertencia de empuje activo hacia infraestructura vieja.
+
+Ajustamos posición sin consultar mapa dinámico. Pasamos a referencia física pura: columnas, ductos, vibración de piso y dirección de flujo de aire.
+
+SB-F cruzó el desfase recibido con la firma del último cruce. Marcó un punto donde el arrastre lógico debería adelantarse al cierre físico por varios segundos. Me indicó movernos dos segmentos laterales y subir a una pasarela técnica con cobertura estructural.
+
+Durante el desplazamiento sentí el primer efecto del desfase: el visor mostró ruta abierta mientras el pasillo real ya estaba parcialmente ocupado por unidades móviles. Apagué proyección y mantuve orientación por marcas de servicio.
+
+Desde la pasarela observamos compresión del espacio operativo. Vehículos de cierre rotaron firmas térmicas y drones pasivos mantuvieron lectura baja, sin barrido visible. El patrón de movimiento encaja con el esquema del paquete.
+
+SB-F cerró registro y marcó nuevo punto de observación adelantado. Dijo que el siguiente pre-cambio va a ser corto y con mayor ruido lógico, lo suficiente para cubrir tránsito real sin levantar alerta inmediata.
+
+Quedamos en modo observación indirecta, con prioridad en anticipar micro-lag y no en seguir movimiento físico.
+
+Fin del log.

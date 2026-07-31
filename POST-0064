@@ -1,0 +1,27 @@
+POST-0064 — Pre-Cambio de Corredor
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (borde móvil)
+Hora local: Ciclo 4318.39
+
+SB-F detectó el pre-cambio antes de que yo oyera motores.
+
+Su analizador marcó tres caídas cortas de coherencia en banda media, con un ruido fino encima que no coincide con tráfico civil ni con barrido estándar; lo interpretó como el “instante previo” en que NODE-L reordena rutas lógicas y el equipo de rastreo aprovecha esa ventana para mover cierres sin perseguir cuerpos, persiguen cadencias.
+
+Me señaló un cruce en “T” que en plano físico es solo ducto y cableado viejo, pero en su cache offline aparece como punto de anclaje lógico. Dijo que cuando ese punto “respira” (micro-lag medible), el corredor se vuelve predecible para ellos durante menos de un minuto.
+
+A los segundos vi luz baja contra pared norte y el reflejo de un sensor en abanico. Dos vehículos de rastreo entraron sin prisa, barriendo a ritmo fijo, y un drone de soporte flotó detrás con zumbido seco. No buscaban calor ni siluetas, el patrón de barrido estaba sincronizado con el mismo pulso que SB-F venía siguiendo.
+
+SB-F me indicó moverme pegado a pared sur, sobre la zona de metal ruidoso y cableado oxidado, para que mi firma quedara absorbida por el “desorden” local. Caminé como mantenimiento: velocidad constante, manos visibles, sin cambios bruscos.
+
+En ese momento entró un mensaje corto por MSG-LINK, formato de admin local, firmado por MS-F: aviso de bloqueos dinámicos y carriles señuelo, con una regla simple sobre balizas verdes y un pedido de responder con checksum. No respondí; lo guardé offline. La presencia de ese mensaje dentro de zona caliente confirma que alguien está empujando señales útiles donde no deberían pasar.
+
+Cuando el drone se detuvo, SB-F tocó pared y contó el pulso sin hablar. En el siguiente ciclo, el sensor del vehículo apuntó al carril con baliza verde fija, exactamente donde el corredor “se abre” en mapa para atraer tránsito. Dejamos que el barrido se comprometiera con ese señuelo y cruzamos por sombra sur.
+
+Al pasar el cruce en “T”, NET-VIEW cambió sin que el pasillo cambiara: rutas marcadas como accesibles pasaron a “no resolubles” y los marcadores de salida se reubicaron como si hubiera puertas nuevas. SB-F lo llamó cierre lógico, no cierre físico, y remarcó que el equipo se mueve después, no antes.
+
+Nos quedamos quietos el mínimo necesario para confirmar que el pre-cambio ya se había consumado y que la siguiente ventana iba a venir con más cierre. A partir de acá el borde de zona caliente no es una línea; es un pulso, y si lo seguimos mal vamos a cruzar justo cuando ellos necesitan que crucemos.
+
+Fin del log.

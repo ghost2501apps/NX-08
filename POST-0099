@@ -1,0 +1,27 @@
+POST-0099 — Micro-Ventanas
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (segmento mixto / pasarela baja)
+Hora local: Ciclo 4319.92
+
+SB-F detectó aparición de ventanas cortas sin patrón estable. No hay fase dominante. La coherencia surge y cae en pulsos irregulares.
+
+Nos movimos por tramos mínimos. Referencia física directa. Sin proyección de mapa dinámico.
+
+La primera micro-ventana duró menos de dos segundos. No hubo cruce. Solo ajuste parcial de latencia y ruido ambiental reducido.
+
+La segunda apareció desplazada lateralmente. El objeto móvil cruzó bordeando columna estructural y salió del tramo antes de que el pulso completara alineación. La velocidad fue variable. La cola de interferencia quedó fragmentada.
+
+Los drones reaccionaron tarde. El barrido no coincidió con el tránsito. Los vehículos avanzaron posiciones físicas sin cerrar eje completo.
+
+SB-F registró dispersión temporal entre micro-ventanas. No hay repetición. No hay simetría.
+
+El corredor muestra zonas intercaladas de ruido alto y estabilidad mínima. El mapa lógico responde con retrasos inconsistentes.
+
+Guardamos timestamps parciales y posiciones relativas. El seguimiento ahora depende de detección inmediata, no de proyección.
+
+Seguimos en observación bajo patrón caótico.
+
+Fin del log.

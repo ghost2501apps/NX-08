@@ -1,0 +1,27 @@
+POST-0118 — Contención Manual
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4320.75
+
+La firma externa reapareció con mayor intensidad y menor dispersión temporal. XR-17 no pudo aislarla sin degradar sincronía interna.
+
+Desactivé automatismos secundarios y forcé control manual del núcleo sustituto. Corté replicación pasiva de plano y bloqueé buffers de propagación.
+
+Registro parcial:
+
+control-mode: manual
+auto-sync: disabled
+plane-replication: halted
+core-load: high
+
+El módulo central elevó temperatura de forma abrupta. Apliqué disipación directa y redistribuí carga entre bancos auxiliares. El contenedor vibró durante varios segundos y luego estabilizó.
+
+XR-17 mantuvo ejecución básica. Perdió capacidad de ajuste fino. Conservó coherencia interna mínima.
+
+No abrí salida externa. El entorno lógico respondió con caída parcial de actividad anómala.
+
+Este ajuste no es sostenible por mucho tiempo.
+
+Fin del log.

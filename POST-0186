@@ -1,0 +1,39 @@
+POST-0186 — Salida Degradada
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Participantes: OP-F, SB-F, XR-17
+Origen: Infraestructura Antigua — Sector Degradado / Nodo de Servicio Abandonado
+Hora local: Ciclo 4324.71
+
+La fuga de coherencia terminó en caída corta. No fue libre. El grupo emergió dentro de un tramo de servicio colapsado parcialmente, con iluminación intermitente y ruido estructural constante. El aire presentaba partículas finas suspendidas y olor metálico antiguo.
+
+SB-F estabilizó postura y levantó lectura rápida. El entorno mostraba interferencia residual del colapso lógico anterior. Las superficies mantenían micro-distorsión de referencia durante los primeros segundos.
+
+OP-F apoyó una mano en la pared para recuperar equilibrio. No cayó. Su respiración se normalizó en menos de un ciclo completo.
+
+XR-17 tardó más en estabilizar. Su telemetría interna mostró desfase corto entre posición física y referencia lógica. No emitió alerta. Ajustó estado pasivo de forma autónoma.
+
+SB-F: - Arrastramos residuo del campo. No es NODE-L. Es eco estructural.
+
+OP-M ordenó desplazamiento inmediato fuera del punto de salida. El sector presentaba riesgo de derrumbe secundario y baja cobertura contra rastreo térmico.
+
+Mientras tanto, en capa superior, IN-M recibió confirmación de fallo de captura. La transmisión no fue pública. Se ejecutó por canal Integrator cerrado.
+
+IN-M: - Evento clasificado como evasión crítica. Autorizar caza prioritaria. Activar bloqueo dinámico de rutas profundas y despliegue de observadores de capa híbrida.
+
+La orden disparó actualización regional silenciosa. Sectores antiguos cercanos comenzaron a cerrar accesos secundarios de forma automática. Varias rutas profundas quedaron marcadas como no transitables en NET-VIEW.
+
+RC-M recibió actualización táctica y nuevo vector operativo. No tenía posición exacta del grupo, pero sí firma residual del colapso de coherencia.
+
+Estado inmediato:
+
+Grupo en infraestructura degradada con interferencia residual activa
+
+XR-17 estable tras desfase corto
+
+IN-M autorizando caza prioritaria regional
+
+Entorno profundo comenzando a cerrarse dinámicamente
+
+Fin del log.

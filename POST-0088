@@ -1,0 +1,27 @@
+POST-0088 — Aviso Pasivo
+
+Tipo: SIGNAL LOG
+Autor: Custodians — Canal Silencioso
+Origen: NODE-L — Capa Baja / Enlace Unidireccional
+Hora local: Ciclo 4319.40
+
+La señal llegó sin handshake y sin encabezado de red. No ocupó canal visible. Se integró como paquete corto en cache local.
+
+SB-F detectó inserción pasiva y bloqueó propagación automática. Abrimos solo el bloque operativo.
+
+Contenido recibido:
+
+“Se registró estabilización rítmica fuera de patrón de cierre.
+No corresponde a Integrators.
+Mantener observación.
+No intervenir topología.”
+
+No hubo repetición. No se habilitó canal de retorno.
+
+Después de la recepción, el corredor mostró micro-ajuste breve en latencia y volvió a ruido base. No aparecieron rutas nuevas ni cierres.
+
+SB-F guardó la marca temporal y vinculó el evento con la variación ambiental previa.
+
+Seguimos en modo observación indirecta. Sin movimiento físico adicional.
+
+Fin del log.

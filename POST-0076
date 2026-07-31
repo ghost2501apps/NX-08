@@ -1,0 +1,23 @@
+POST-0076 — Desfase de Cruce
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (eje lateral / pasarela técnica)
+Hora local: Ciclo 4318.89
+
+SB-F marcó variación nueva en la firma temporal. No coincide con ventanas anteriores. La estabilidad apareció con duración mayor y borde irregular.
+
+Tomamos posición alta con cobertura estructural. Mantuvimos NET-VIEW en cache y referencia física directa.
+
+El cruce ocurrió fuera del eje habitual. El objeto móvil apareció desplazado medio segmento hacia lateral, con velocidad constante y cola de interferencia más ancha. La degradación final fue lenta. SB-F registró aumento de persistencia temporal durante tránsito.
+
+Los drones de cierre ajustaron barrido tarde. Los vehículos rotaron patrón térmico después del paso, no antes.
+
+Comparé timestamps con eventos previos. La fase está adelantada respecto al último cruce. SB-F confirmó correlación con el nuevo patrón interno que viene registrando desde la señal externa.
+
+Guardamos dirección, duración y desplazamiento lateral. El corredor reordenó mapa con retardo corto. La coherencia cayó después del evento.
+
+Quedamos en observación indirecta. El siguiente cruce no va a repetir eje anterior.
+
+Fin del log.

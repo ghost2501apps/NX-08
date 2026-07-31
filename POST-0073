@@ -1,0 +1,26 @@
+POST-0073 — Ajuste Interno
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4318.77
+
+XR-17 reaccionó a la señal sin abrir canal externo. No solicitó acceso a NODE-L ni activó sincronía directa.
+
+Activó ciclo interno corto y repetitivo, con variación mínima entre iteraciones. El patrón no coincide con simulación estructural previa. Está orientado a absorción de referencia temporal.
+
+Registro parcial:
+
+cycle-mode: adaptive
+phase-window: narrow
+sync-output: damped
+
+El consumo se mantuvo estable. No hubo picos térmicos. La vibración del contenedor se volvió regular, con frecuencia baja y amplitud constante.
+
+XR-17 generó un mapa interno reducido. No es topológico. Es secuencial. Tres marcas temporales alineadas con eventos previos del corredor.
+
+No exportó datos. No abrió interfaz. Dejó el ciclo activo en estado latente.
+
+Mantengo aislamiento físico. El entorno no muestra respuesta inmediata.
+
+Fin del log.

@@ -1,0 +1,40 @@
+POST-0023 — Interior del Complejo
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Complejo Industrial Interior
+Hora local: Ciclo 4314.61
+
+Esperé a que el transporte saliera del perímetro antes de moverme.
+
+Entré por el acceso lateral que usaron antes. La energía interna seguía activa en modo bajo. Iluminación mínima, suficiente para ver rutas principales y paneles antiguos.
+
+El sector central no estaba vacío. No había personas, pero sí equipo temporal: reguladores portátiles, líneas de alimentación improvisadas y un nodo local desconectado de red pública. No usaban NET-VIEW. Todo era cableado directo y control manual.
+
+Encontré marcas en el piso, alineadas en patrón rectangular. Coinciden con el tamaño de los módulos. No parecían marcas de descarga común. Más bien posiciones fijas para operación breve.
+
+Revisé el nodo local. No tenía almacenamiento grande. Solo buffers circulares con timestamps cortos y registros de activación. No guardan datos, ejecutan algo y lo descartan.
+
+Eso encaja con lo que dijo el civil: activaciones breves y cortes rápidos.
+
+No quise quedarme mucho tiempo. Este lugar no está abandonado, solo vacío entre ventanas de uso.
+
+Salí por el mismo acceso. Desde afuera el complejo volvió a modo pasivo.
+
+Voy a comparar estos registros con futuros movimientos. Si este patrón se repite en otros nodos, ya no hablamos de operación aislada.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Acceso interno confirmado ✔
+
+Infraestructura temporal ✔
+
+Nodo local sin almacenamiento ✔
+
+Operaciones por ventanas breves ✔
+
+Patrón repetible posible ✔

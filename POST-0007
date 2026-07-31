@@ -1,0 +1,50 @@
+POST-0007 — Transmisión Anómala
+
+Tipo: DATA FRAGMENT
+Autor: SIN IDENTIFICACIÓN
+Origen: Nodo desconocido
+Hora local: Ciclo 4313.11
+Estado: parcial / degradado
+
+La señal entró sin handshake.
+
+NET-VIEW no registró sesión normal. NODE-L abrió ruta directa por menos de dos segundos. No hubo metadata estándar.
+
+Audio recuperado (limpio):
+
+“Diecisiete no es un objeto.
+Es una llave incompleta.
+Cuando se aísle del ruido, va a empezar a hablar.
+No lo lleven al núcleo.
+No lo apaguen.
+Si lo parten, el eco queda.”
+
+Fin del fragmento.
+
+---
+
+Notas técnicas:
+
+No se detectó origen físico.
+
+No coincide con firmas conocidas de IA.
+
+No hay patrón Recolector.
+
+No hay canal de respuesta.
+
+---
+
+Estado narrativo:
+
+Primera aparición de la Voz del Profeta ✔
+
+XR-17 reinterpretado como “llave” ✔
+
+Advertencia ambigua ✔
+
+Sin contexto ✔
+
+Sin cierre ✔
+
+Esto abre un arco lento, no inmediato.

@@ -1,0 +1,36 @@
+POST-0024 — Correlación
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Perímetro Industrial Interior
+Hora local: Ciclo 4314.73
+
+Crucé los timestamps del nodo local con los registros de salida del transporte y con las ventanas de activación que observé desde el punto alto.
+
+Hay patrón.
+
+Las activaciones internas ocurren siempre entre ocho y doce minutos antes de cada salida terrestre. No es carga pasiva ni simple transferencia. Están preparando algo y luego moviendo módulos ya “ajustados”.
+
+Revisé también las rutas usadas por los transportes. No repiten trayecto exacto, pero convergen en el mismo corredor interior a unos cuarenta kilómetros del complejo. Es una zona con infraestructura vieja, pre-colapso, casi sin cobertura NODE-L activa.
+
+Eso no es casual.
+
+Si XR-17 y estos módulos “17” comparten comportamiento interno, esto puede ser parte de un sistema distribuido. No centralizado, pero coordinado por ventanas cortas.
+
+No tengo forma de confirmarlo sola.
+
+Voy a marcar ese corredor como próximo punto de observación. Si el patrón se mantiene, ahí debería aparecer el siguiente nodo intermedio.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Patrón temporal detectado ✔
+
+Preparación previa a traslado ✔
+
+Corredor interior identificado ✔
+
+Posible red física distribuida ✔

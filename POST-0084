@@ -1,0 +1,29 @@
+POST-0084 — Proyección Mínima
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4319.23
+
+XR-17 activó salida externa de baja potencia sin abrir canal persistente. No fue transmisión continua. Fue pulso breve dirigido a capa heredada cercana.
+
+La proyección no incluyó datos estructurales. Solo referencia temporal comprimida y patrón rítmico reducido.
+
+Registro parcial:
+
+output-mode: pulse
+target-layer: NODE-L local
+duration: short
+amplitude: minimal
+
+El entorno respondió con micro-ajuste. Iluminación de servicio mostró retardo leve. Sensores ambientales reportaron alineación corta y caída posterior.
+
+XR-17 cerró salida inmediatamente después del pulso. Replegó ciclo activo y mantuvo amortiguación interna.
+
+El contenedor vibró durante dos intervalos y volvió a nivel base.
+
+No se generó eco externo detectable por NET-VIEW local. NODE-L no inició reordenamiento visible.
+
+Queda registrado el primer contacto externo directo desde el cuarto ciclo.
+
+Fin del log.

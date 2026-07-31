@@ -1,0 +1,34 @@
+POST-0027 — Perturbación de Capa
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Corredor Interior — Zona de Convergencia
+Hora local: Ciclo 4315.12
+
+NODE-L entró en estado inestable en toda la franja del corredor.
+
+Las rutas no cayeron, pero el retardo aumentó fuerte y NET-VIEW empezó a resolver nodos con mapas incompletos. Perdí referencia precisa de dos balizas cercanas y el visor pasó a modo degradado.
+
+Al mismo tiempo varios sensores pasivos enterrados alrededor del punto de convergencia se activaron durante unos segundos y volvieron a apagarse sin emitir datos abiertos.
+
+Revisé espectro local. Hay interferencia electromagnética de baja intensidad distribuida en el área, no concentrada en un punto como pasa con tormentas o fallos de generadores. El patrón coincide más con activación coordinada que con ruido ambiental.
+
+Me moví unos metros para salir del eje principal del corredor. Desde ahí la red respondió un poco mejor, aunque NODE-L sigue resolviendo rutas con latencia irregular.
+
+Si este comportamiento coincide con el movimiento de módulos, entonces la red está siendo usada como parte del proceso físico, no solo como capa de transporte.
+
+Voy a mantener posición hasta que la latencia baje. Si entra un transporte ahora, quiero ver cómo interactúa con esta perturbación.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Perturbación NODE-L regional ✔
+
+Activación de sensores ocultos ✔
+
+Interferencia distribuida ✔
+
+Posible sincronización con red física ✔

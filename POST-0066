@@ -1,0 +1,27 @@
+POST-0066 — Seguimiento por Tramos
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (tramo sur / puntos de observación)
+Hora local: Ciclo 4318.49
+
+Después del cruce mantuvimos disciplina de tramo: observar, registrar, mover corto, volver a observar.
+
+SB-F tomó el timestamp y la duración de estabilidad del evento, y lo convirtió en una firma operativa: micro-lag medible, caída breve de coherencia en banda media y un repunte fino asociado a alineación con capa antigua. Con eso dejó de “buscar ruido” y empezó a buscar repetición de estructura.
+
+NET-VIEW quedó en modo cache local. Sin resoluciones activas, sin consultas que generen trazas. Lo usamos solo como referencia física y etiquetas de ductos.
+
+Nos movimos pegados a pared sur, por zonas de metal degradado y cableado viejo, no por camuflaje teatral sino porque esa superficie ya está saturada de interferencia y reduce contraste de firma. En cada pausa SB-F revisaba coherencia temporal y yo cubría el corredor a ojo, luces, reflejos y sombras de rueda.
+
+Apareció otra estabilidad corta en un segmento adelantado, con la misma forma general pero desplazada y demasiado limpia. SB-F lo marcó como “preparación de carril”, no como cierre, y me pidió mirar el eje medio.
+
+Vi movimiento bajo y rápido, con velocidad constante y cola de interferencia corta. El detalle raro no fue el objeto, fue el contexto: el drone de soporte reorientó el abanico tarde pero exacto, y el volumen salió del tramo justo cuando el barrido terminaba su ciclo, como si estuvieran midiendo reacción y no interceptando.
+
+SB-F comparó la cola con la firma del cruce real y anotó discrepancia: coherencia demasiado estable en la salida, transición sin degradación y ausencia de micro-lag secundario. Eso encaja con un señuelo o con tránsito inducido dentro de un carril controlado.
+
+Replegamos dos segmentos con ritmo constante, sin aceleración, y al hacerlo el mapa local volvió a reordenarse por cuenta propia. En el borde del tramo apareció un marcador de salida con baliza verde fija a menos de 40 metros, justo en el lugar donde el pre-cambio anterior había sido “demasiado limpio”.
+
+Guardé el punto como referencia, lo traté como elemento de control del perímetro y mantuvimos el seguimiento por tramos sin entrar en ese carril.
+
+Fin del log.

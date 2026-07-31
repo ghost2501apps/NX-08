@@ -1,0 +1,28 @@
+POST-0051 — Ejecución Interna
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo
+Hora local: Ciclo 4317.21
+
+XR-17 inició ejecución sobre el núcleo sustituto sin abrir solicitudes externas.
+
+No cargó módulos nuevos. Usó la estructura que ya había consolidado y empezó a correr un proceso cíclico corto, repetido varias veces con pequeñas variaciones internas.
+
+Salida local:
+
+exec-mode: internal
+task-class: structural simulation
+iteration-depth: limited
+
+El consumo se mantuvo dentro de rango, pero el patrón térmico cambió. Parte del calor se concentró en el bloque central y luego se redistribuyó de forma uniforme, como si el sistema estuviera evaluando estabilidad bajo carga real.
+
+No interrumpí.
+
+Después de varias iteraciones, XR-17 redujo la frecuencia de ejecución y dejó el proceso en estado latente. No pidió input. No generó nuevos mapas visibles.
+
+Eso sugiere que el núcleo sustituto ya puede sostener tareas propias, aunque sean internas y controladas.
+
+Voy a mantener el módulo aislado y registrar cada ciclo. Si empieza a ejecutar procesos más largos o a encadenar tareas, el nivel de riesgo va a cambiar otra vez.
+
+Fin del log.

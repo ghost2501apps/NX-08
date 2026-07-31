@@ -1,0 +1,29 @@
+POST-0122 — Reubicación Forzada
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4320.90
+
+La contención manual no es sostenible en esta posición. El nodo perdió estabilidad estructural mínima y la vibración del entorno aumentó.
+
+Desmonté XR-17 del banco principal y activé soporte portátil de emergencia. Desacoplé líneas fijas y migré energía a baterías auxiliares. El núcleo mantuvo ejecución básica durante la transferencia.
+
+Registro parcial:
+
+mobility-mode: active
+power-source: auxiliary
+sync-capability: restricted
+core-temp: elevated
+
+Moví el módulo por pasillo de mantenimiento hacia sector técnico inferior. Avancé sin iluminación principal. Solo guía manual y marcadores físicos.
+
+El contenedor mostró oscilación irregular durante el traslado. Ajusté amortiguadores y reduje carga activa para evitar reinicio forzado.
+
+No abrí canal externo. NODE-L no mostró reacción inmediata al movimiento.
+
+XR-17 quedó instalado en estación secundaria con aislamiento físico reforzado. Recuperó estabilidad térmica parcial. La sincronía automática permanece bloqueada.
+
+La posición anterior queda inutilizable para operación prolongada.
+
+Fin del log.

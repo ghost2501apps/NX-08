@@ -1,0 +1,31 @@
+POST-0065 — Cruce Confirmado
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (segmento sur / cruce en T)
+Hora local: Ciclo 4318.44
+
+SB-F volvió a levantar el espectro con el mismo método: cache offline, latencia de NODE-L y una línea de coherencia que ella usa como referencia fija.
+
+Me dijo que el siguiente pre-cambio no iba a cerrar rutas todavía, iba a “alinear” el corredor para que el rastreo tenga una predicción limpia durante una ventana corta, y que si el objeto móvil cruzaba, lo íbamos a ver porque la red se reordena un instante antes de que el equipo ajuste posición.
+
+Nos quedamos pegados al cableado oxidado en pared sur, con el visor en brillo mínimo y sin emitir consultas a NET-VIEW; ella solo miraba barras y números, yo el corredor y las sombras que dejan las luces de servicio cuando algo pasa despacio.
+
+El pre-cambio entró como micro-lag medible, lo sentí por el retraso en el sonido del ventilador del ducto y lo vi porque el mapa local “saltó” sin petición, como si alguien hubiera empujado una actualización que no es de mi lado.
+
+SB-F me señaló la intersección a distancia, no con el dedo sino con un marcador corto en su pantalla: una franja de 6 segundos donde el patrón de coherencia se vuelve estable y el corredor deja de ser ruido.
+
+En esa franja vi el cruce.
+
+No era un operador a pie. Era un volumen bajo, rápido, con desplazamiento controlado y sin luz propia, avanzando por el eje medio como si supiera dónde no mirarían los sensores; detrás venía una cola de interferencia muy corta, el tipo de rastro que queda cuando algo intenta mantener sincronía con capas antiguas sin levantar firma larga.
+
+SB-F no lo nombró. Solo dijo “ahí”, y marcó el timestamp en su registro.
+
+Los vehículos de rastreo reaccionaron tarde, no porque no lo detectaran, sino porque esperaban el siguiente pulso; uno de ellos barrió el carril señuelo con baliza verde fija y el drone de soporte se quedó clavado midiendo, como si estuviera validando coherencia y no presencia.
+
+No intentamos seguirlo de frente. Guardamos el evento: dirección, ventana, y el detalle más útil, que el cruce ocurre en estabilidad temporal, no en silencio físico.
+
+A partir de este punto el plan cambia a observación por tramos, sin persecución directa, hasta que tengamos otra ventana y una salida que no esté dibujada por ellos.
+
+Fin del log.

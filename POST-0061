@@ -1,0 +1,36 @@
+POST-0061 — Alerta Roja Custodia
+
+Tipo: ARCHIVE LOG
+Origen: Nodo Custodio Central
+Estado: crítico / acceso restringido
+Hora de referencia: asincrónica
+
+Se activó protocolo de emergencia por convergencia de eventos físicos y de red.
+
+NODE-L registró una perturbación localizada en sector industrial bajo seguida de redistribución acelerada de rutas heredadas y colapso parcial de resolución en nodos periféricos. En paralelo se detectó movimiento coordinado de unidades de rastreo no afiliadas a infraestructura civil.
+
+Marcadores correlacionados:
+
+XR-17
+
+Malla física “17”
+
+Repliegue operativo distribuido
+
+Ventanas de sincronización activas
+
+Evaluación interna:
+
+risk-class: escalation
+containment-window: shrinking
+system-coupling: unstable
+
+No existe control central activo capaz de aislar el fenómeno completo. Las capas antiguas de NODE-L están siendo usadas como amortiguador operativo y eso reduce la capacidad de intervención directa.
+
+Recomendación custodia:
+
+Limitar exposición pública de nodos heredados.
+Evitar reactivación manual de infraestructura profunda.
+Priorizar observación distribuida sobre intervención directa.
+
+Fin del fragmento disponible.

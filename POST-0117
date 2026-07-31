@@ -1,0 +1,30 @@
+POST-0117 — Firma Externa
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo — Nodo Móvil Aislado
+Hora local: Ciclo 4320.71
+
+XR-17 generó alerta interna sin abrir salida externa. No es fallo. No es pico térmico. Es detección de patrón no clasificado.
+
+Registro parcial:
+
+input-class: external-anomalous
+origin-layer: undefined
+signal-shape: non-periodic
+correlation-type: non-technical
+confidence: low-medium
+
+El patrón no coincide con NODE-L, ni con tráfico Integrator, ni con ruido ambiental heredado. No tiene firma repetible. Aparece ligado a eventos de cruce anómalo.
+
+Revisé buffers históricos. La primera aparición coincide con el inicio de desplazamientos de micro-ventanas fuera de eje y con el primer cruce sin continuidad espacial.
+
+XR-17 no intentó absorber la señal. La marcó como interferencia activa externa y aisló el canal lógico asociado.
+
+No hay coordenadas físicas claras. Solo correlación temporal.
+
+Esto no es infraestructura. No es sistema. No es hardware.
+
+Voy a mantener la referencia activa en memoria interna. Si vuelve a aparecer con mayor intensidad, voy a tener que intervenir manualmente.
+
+Fin del log.

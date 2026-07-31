@@ -1,0 +1,25 @@
+POST-0127 — Detección Energética
+
+Tipo: TRACK LOG
+Autor: RC-M
+Origen: Unidad de Cierre — Sector Norte / Nodo de Rastreo Móvil
+Hora local: Ciclo 4321.11
+
+Los sensores pasivos captaron firma energética nueva fuera del eje operativo. No coincide con Integrators ni con infraestructura activa registrada.
+
+Registro interno:
+
+signal-type: residual-active
+origin-zone: lateral-unmapped
+stability: high
+network-link: none
+
+El patrón no muestra propagación. Es local y persistente. No responde a barridos térmicos estándar.
+
+Reorienté dos drones hacia el sector lateral. Ajusté malla de cierre para cubrir accesos secundarios sin activar compresión total.
+
+No hay tránsito visible asociado. La firma permanece fija.
+
+Marqué el punto como objetivo secundario de observación.
+
+Fin del log.

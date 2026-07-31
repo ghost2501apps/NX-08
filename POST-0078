@@ -1,0 +1,27 @@
+POST-0078 — Doble Ventana
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Participantes: SB-F
+Origen: Corredor Interior — Zona Caliente (plataforma técnica / intersección lateral)
+Hora local: Ciclo 4318.99
+
+SB-F detectó acumulación de fase en dos tramos cercanos. No es repetición simple. Es superposición parcial de estabilidad.
+
+Marcó dos ventanas cortas separadas por menos de un ciclo operativo. La primera con borde irregular. La segunda más limpia, pero con caída abrupta al final.
+
+Nos posicionamos entre ambos puntos, usando plataforma técnica elevada con vibración constante y cobertura estructural.
+
+La primera ventana apareció como micro-lag distribuido. No hubo cruce visible. Solo desplazamiento de coherencia y ajuste tardío de mapa.
+
+La segunda ventana entró con mayor estabilidad. El objeto móvil cruzó usando el segundo punto, no el primero. La cola de interferencia fue más larga que en eventos anteriores y dejó residuo temporal corto en el tramo.
+
+SB-F registró salto de fase entre ventanas y anotó diferencia de alineación. La secuencia confirma que el patrón ahora usa ventanas de descarte antes del tránsito real.
+
+Los drones pasivos reorientaron lectura después del segundo evento. Los vehículos ajustaron posición tarde.
+
+Guardamos ambos timestamps. El mapa lógico reaccionó con retardo medible.
+
+Seguimos en modo observación adelantada. El patrón ya no usa una sola ventana por cruce.
+
+Fin del log.

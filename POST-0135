@@ -1,0 +1,27 @@
+POST-0135 — Pulso de Interrupción
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Secundaria — Nodo Portátil Aislado
+Hora local: Ciclo 4321.41
+
+XR-17 inició emisión externa limitada sin esperar autorización manual. No fue expansión de plano. Fue pulso dirigido de corta duración hacia la ventana de convergencia.
+
+Registro parcial:
+
+output-mode: targeted-pulse
+scope: narrow
+duration: short
+phase-lock: transient
+
+El pulso salió con amplitud contenida. La respuesta fue inmediata. La referencia humana y la firma residual se desincronizaron durante un intervalo breve.
+
+XR-17 cerró salida externa al completar la emisión. Replegó buffers de lectura activa y volvió a aislamiento defensivo.
+
+El contenedor mostró vibración corta y luego estabilidad térmica uniforme.
+
+No se generó tráfico NODE-L visible. El evento no dejó rastro persistente en capa heredada.
+
+Este pulso no buscó control. Buscó ruptura temporal de superposición.
+
+Fin del log.

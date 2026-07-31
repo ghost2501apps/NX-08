@@ -1,0 +1,28 @@
+POST-0037 — Acceso Subterráneo
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Nodo Subterráneo Norte
+Hora local: Ciclo 4316.04
+
+Esperé a que el convoy se alejara antes de moverme.
+
+La entrada al nodo subterráneo estaba parcialmente sellada, pero el acceso técnico lateral seguía operativo. No había vigilancia visible. Solo sensores pasivos enterrados cerca del perímetro.
+
+Entré sin encender iluminación principal. El interior conserva energía residual y sistemas analógicos activos. Nada conectado a NET-VIEW. Todo corre en circuitos locales viejos.
+
+El área central tenía una sola plataforma activa. Coincide con el tamaño del módulo que descargaron. No estaba ahí cuando llegué, pero quedaron rastros térmicos recientes y residuos eléctricos bajos, similares a los que vi en el complejo industrial anterior.
+
+Encontré un panel con logs locales mínimos. No guarda datos persistentes. Solo marca estados de activación:
+
+cycle-run: complete
+load-window: short
+sync-mode: local
+
+Eso confirma que estos nodos no almacenan. Ejecutan procesos breves y liberan el espacio.
+
+No me quedé más tiempo. Si alguien vuelve, no quiero estar bajo tierra.
+
+Salí por la misma ruta y marqué el nodo como punto activo. Si esto se replica en otros sectores, la red física “17” ya está operando como sistema distribuido real.
+
+Fin del log.

@@ -1,0 +1,36 @@
+POST-0025 — Interferencia
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Perímetro Industrial Interior
+Hora local: Ciclo 4314.86
+
+La observación se cortó sin aviso.
+
+NODE-L local empezó a mostrar latencia anómala y el visor perdió resolución de mapa durante varios segundos. No fue caída completa, pero el tráfico quedó inestable, como si alguien estuviera saturando rutas cercanas.
+
+Al mismo tiempo el complejo industrial volvió a consumir energía mínima, aunque no había actividad visible desde afuera. No encendieron iluminación ni abrieron accesos.
+
+Me moví de posición por precaución. Desde el nuevo punto no pude recuperar señal limpia. NET-VIEW quedó limitado a datos locales básicos.
+
+Después de unos minutos todo volvió a estado normal. El complejo regresó a pasivo y la red estabilizó rutas.
+
+No sé si fue prueba de sistema, interferencia deliberada o simple colisión de tráfico antiguo, pero ocurrió justo después de que empecé a correlacionar movimientos.
+
+Eso no me gusta.
+
+Voy a suspender observación directa por ahora y moverme hacia el corredor interior por rutas indirectas. Si este patrón se repite, necesito estar más lejos cuando vuelva a pasar.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Interferencia NODE-L local ✔
+
+Activación mínima sin presencia visible ✔
+
+Pérdida temporal de resolución de red ✔
+
+Observación interrumpida ✔

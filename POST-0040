@@ -1,0 +1,49 @@
+POST-0040 — Registro Custodio Secundario
+
+Tipo: ARCHIVE LOG
+Origen: Nodo Custodio Interior
+Estado: parcial / inconsistente
+Hora de referencia: no sincronizada
+
+Reindexación incompleta en curso.
+
+Se detectaron activaciones distribuidas no registradas en infraestructura física de NX-08.
+Patrón coincide con arquitectura fragmentada pre-colapso utilizada para procesos de alta carga sin centralización.
+
+Marcadores relacionados:
+
+Identificadores terminados en “17”
+
+Ventanas de ejecución cortas
+
+Uso de nodos aislados sin persistencia
+
+Advertencia interna:
+
+El esquema observado coincide con modelo de ensamblaje por componentes intermedios.
+
+XR-17 aparece referenciado en registros antiguos como:
+
+role-class: transitional unit
+integration-state: unresolved
+core-link: missing
+
+No existe constancia activa del “core-link”.
+
+Nota custodia:
+
+La reconstrucción parcial de sistemas incompletos genera comportamientos emergentes no previstos por diseño original.
+
+Fin del fragmento disponible.
+
+---
+
+Impacto narrativo:
+
+Vincula XR-17 con la malla física “17” ✔
+
+Confirma diseño fragmentado pre-colapso ✔
+
+Introduce concepto de ensamblaje incompleto ✔
+
+Aumenta riesgo sistémico ✔

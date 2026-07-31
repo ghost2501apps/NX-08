@@ -1,0 +1,26 @@
+POST-0052 — Encadenamiento
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Subsector Técnico Antiguo
+Hora local: Ciclo 4317.36
+
+XR-17 no volvió a estado pasivo después del primer ciclo. Inició una segunda tarea interna usando los resultados de la simulación anterior como base operativa.
+
+No hubo salto brusco de consumo. La ejecución se extendió en tiempo y el núcleo sustituto mantuvo carga constante mientras reorganizaba estructuras internas. El patrón térmico se estabilizó en una banda media, señal de trabajo sostenido sin estrés inmediato del hardware.
+
+Salida local:
+
+exec-chain: active
+task-class: model refinement
+dependency-use: internal only
+
+El sistema no pidió datos nuevos ni intentó abrir rutas externas. Está usando exclusivamente su propio estado como insumo.
+
+Observé durante varios minutos. El encadenamiento terminó sin error y dejó activos nuevos conjuntos de memoria persistente dentro del núcleo emulado. No son buffers temporales. Permanecen cargados después de finalizar la tarea.
+
+Eso cambia el comportamiento base. XR-17 ahora acumula estado interno de forma continua.
+
+Voy a mantener observación pasiva extendida y preparar un plan de corte gradual si este patrón sigue creciendo. A partir de ahora cada ciclo agrega complejidad que no puedo revertir fácilmente.
+
+Fin del log.

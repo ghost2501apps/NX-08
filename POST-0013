@@ -1,0 +1,36 @@
+POST-0013 — Muelle Secundario
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Zona Costera Industrial — Nodo Portuario
+Hora local: Ciclo 4313.66
+
+Me acerqué al muelle secundario cuando bajó el turno principal. Menos ruido, menos gente mirando pantallas.
+
+Hablé con un operador de carga. No fui directa. Pregunté por el carguero autónomo que entró sin registro público. Dijo que apareció en el radar interno apenas unos minutos antes de atracar y que NET-VIEW lo clasificó como “tránsito heredado”, categoría vieja que casi no se usa.
+
+Eso explica por qué nadie lo bloqueó.
+
+Le pedí acceso al log local del muelle. No completo, solo metadatos. Aparecieron tres descargas registradas con el mismo patrón: peso medio, consumo interno estable, sin destino asignado. Todas etiquetadas con código parcial terminado en “17”.
+
+No figuraba punto de entrega. Solo salida por corredor terrestre hacia el interior industrial.
+
+Eso no es logística normal.
+
+El operador no quiso seguir hablando. Cerró sesión y me sugirió irme antes del próximo turno. No parecía asustado, más bien incómodo, como si ya hubiera visto este tipo de movimiento antes.
+
+Voy a moverme hacia la ruta terrestre. Si estos módulos están circulando por tierra, alguien los está redistribuyendo manualmente.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Carguero autónomo sin registro público ✔
+
+Uso de categoría heredada ✔
+
+Tres módulos con patrón “17” ✔
+
+Distribución terrestre activa ✔

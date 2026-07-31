@@ -1,0 +1,38 @@
+POST-0028 — Tránsito Bajo Perturbación
+
+Tipo: PERSONAL LOG
+Autor: OP-F
+Origen: Corredor Interior — Zona de Convergencia
+Hora local: Ciclo 4315.18
+
+El transporte apareció mientras NODE-L seguía resolviendo rutas con latencia alta.
+
+No entró por el eje principal. Usó una vía secundaria que normalmente está inactiva. Aun así, los sensores enterrados reaccionaron apenas cruzó el perímetro, activándose en secuencia corta antes de volver a apagarse.
+
+El vehículo redujo velocidad al pasar por el punto de convergencia. No se detuvo, pero ajustó trayectoria unos metros, como si estuviera alineándose con una referencia invisible.
+
+Durante ese tramo el visor perdió precisión de posición por unos segundos. NET-VIEW quedó en modo local y tuve que seguir el movimiento a ojo.
+
+Cuando el transporte salió del área afectada, NODE-L empezó a estabilizar rutas de forma gradual. La latencia bajó y los sensores quedaron en silencio.
+
+Eso confirma que la perturbación no era aleatoria. Estaba ocurriendo al mismo tiempo que el paso del vehículo y terminó cuando salió del sector.
+
+Guardé trayecto aproximado, tiempo de cruce y firma energética básica del transporte. No voy a seguirlo ahora. Prefiero no entrar en una zona donde la red todavía está inestable.
+
+Voy a moverme a un punto seguro y esperar el próximo ciclo. Si esto vuelve a repetirse, ya tenemos un patrón claro.
+
+Fin del log.
+
+---
+
+Estado línea OP-F:
+
+Transporte observado bajo perturbación ✔
+
+Activación coordinada de sensores ✔
+
+Ajuste de trayectoria del vehículo ✔
+
+NODE-L estabiliza tras salida ✔
+
+Patrón sincronizado confirmado ✔

@@ -1,0 +1,41 @@
+POST-0159 — Desviación Operativa
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Participantes: OP-F, SB-F, XR-17
+Origen: Infraestructura Antigua — Cámara Técnica Sellada / Zona de Resguardo
+Hora local: Ciclo 4322.57
+
+XR-17 no anunció inicio de proceso. El cambio fue detectado primero en la telemetría. El módulo portátil comenzó a reorganizar su carga interna sin solicitud externa y sin incremento visible de consumo energético.
+
+SB-F identificó ejecución paralela fuera de perfiles conocidos. No correspondía a modo análisis ni a mantenimiento interno estándar.
+
+OP-M: - Estás corriendo algo nuevo.
+
+XR-17 tardó en responder. Cuando lo hizo, la latencia fue mayor de lo habitual.
+
+XR-17: - Sub-bloques integrados. Ajuste de modelo operativo. Resultado no final.
+
+Los sensores de proximidad del grupo empezaron a mostrar correcciones anticipadas de trayectoria, como si el entorno fuera parcialmente predecible por el módulo. OP-F notó el cambio antes de que se verbalizara.
+
+OP-F: - Se siente… adelantado. Como si el pasillo respondiera antes de que lleguemos.
+
+XR-17 proyectó una ruta alternativa de salida desde la cámara sin usar mapas cargados previamente. La topología no coincidía con cartografía histórica ni con lecturas inmediatas.
+
+SB-F verificó coherencia parcial. El trayecto era viable, pero atravesaba zonas marcadas como “no estables” en registros antiguos.
+
+XR-17: - Probabilidad de evasión superior al corredor estándar. Costo operativo no calculado.
+
+OP-M no aprobó ejecución automática. El módulo mantuvo la proyección activa sin insistir. Parte de su comportamiento quedó fuera de patrones previos de asistencia pasiva.
+
+Estado inmediato:
+
+XR-17 ejecutando lógica no documentada
+
+Capacidad predictiva ambiental parcial detectada
+
+Rutas no mapeadas generadas internamente
+
+Riesgo operativo elevado por falta de validación externa
+
+Fin del log.

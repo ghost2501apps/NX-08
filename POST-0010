@@ -1,0 +1,47 @@
+POST-0010 — Actividad Interna
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Industrial Baja
+Hora local: Ciclo 4313.41
+
+XR-17 salió de estado pasivo.
+
+El consumo interno cambió y el módulo empezó a regular voltaje por su cuenta, como si hubiera habilitado un subsistema propio.
+
+No estaba conectado a NET-VIEW ni a ARCNET. Todo seguía aislado.
+
+Aun así el hardware reaccionó.
+
+Apareció salida mínima por puerto local:
+
+proc-state: partial active
+sync flag: none
+env dependency: detected
+
+No entiendo la última línea. No hay entorno virtual cargado.
+
+Intenté bajar energía. El módulo compensó la caída. No se apagó, ajustó carga.
+
+Eso no es comportamiento normal de almacenamiento.
+
+Activé lectura pasiva. Solo aparecieron bloques incompletos. No datos legibles, más bien estructuras vacías, como índices esperando contenido.
+
+No voy a ejecutarlo.
+Pero tampoco puedo tratarlo como archivo muerto.
+
+Voy a mover el módulo al banco aislado secundario y limitar energía a nivel mínimo funcional. Si vuelve a reaccionar, voy a tener que decidir rápido si lo corto o lo dejo seguir.
+
+Fin del log.
+
+---
+
+Estado XR-17:
+
+Activación parcial ✔
+
+Autogestión energética ✔
+
+Sin conexión externa ✔
+
+Comportamiento no estándar ✔

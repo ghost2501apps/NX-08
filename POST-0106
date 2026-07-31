@@ -1,0 +1,27 @@
+POST-0106 — Pérdida Operativa
+
+Tipo: TRACK LOG
+Autor: RC-M
+Origen: Unidad de Cierre — Corredor Norte / Nodo de Control Móvil
+Hora local: Ciclo 4320.23
+
+Los anillos dejaron de responder a sincronía física y lógica al mismo tiempo. La compresión no mantiene eje estable. Los cierres manuales producen efecto parcial y temporal.
+
+Activé bloqueo directo por saturación de unidades. El resultado fue fragmentado. Los corredores no se comportan como espacio continuo. Los sensores reportan lecturas coherentes que no coinciden con posición física.
+
+Registro interno:
+
+control-state: degraded
+closure-efficiency: low
+prediction-validity: unstable
+node-feedback: inconsistent
+
+Los drones pierden referencia común entre lecturas consecutivas. Los vehículos ejecutan cierres que no interceptan tránsito real. Aparecen cruces fuera de sectores activos.
+
+Intenté reanclar despliegue usando topología física antigua. NODE-L respondió con retardo irregular y sin alineación prolongada.
+
+No es falla de hardware. Es pérdida de correlación entre capa operativa y capa de decisión.
+
+El corredor ya no es controlable con métodos estándar.
+
+Fin del log.
