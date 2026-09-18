@@ -1,0 +1,5 @@
+El módulo empieza a cambiar su actividad y muestra una salida en el display. No se entiende bien la última línea. OP-M intenta bajar la energía del módulo, pero el módulo recompenza la caída y reajusta la carga.
+
+Siguen apareciendo datos incompletos / no legibles en la pantalla (como índices esperando contenido)
+
+Decide no ejecutar/activar el módulo, moverlo al banco secundario y bajar el consumo de energía a mínimo. Si empieza a tener actividad, no sabe si dejarlo funcionando o desecharlo/desactivarlo/borrarlo.

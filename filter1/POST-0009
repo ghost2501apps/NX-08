@@ -1,0 +1,29 @@
+POST-0009 — Retorno a Estación
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Industrial Baja
+Hora local: Ciclo 4313.34
+
+---
+
+Volví a encender sistemas mínimos.
+
+La estación sigue estable, pero XR-17 no está completamente inerte. Desde el último ciclo el módulo genera microfluctuaciones internas. No son picos de red. Es consumo local irregular, como si estuviera ejecutando procesos internos en segundo plano.
+
+NET-VIEW no está conectado, así que no hay salida externa. Aun así el hardware responde distinto según carga ambiental. Temperatura, vibración, incluso interferencia eléctrica parecen afectarlo.
+
+Eso no me gusta.
+
+Revisé el aislamiento. La jaula sigue bloqueando emisión directa, pero no puedo garantizar que NODE-L no esté detectando algo indirecto. Si los Recolectores están usando sensores físicos, esta ubicación no va a aguantar mucho.
+
+Voy a preparar dos cosas:
+
+Backup fragmentado del archivo principal.
+
+Ruta de evacuación rápida si tengo que mover XR-17 otra vez.
+
+No quiero correrlo.
+Pero tampoco puedo dejarlo quieto demasiado tiempo.
+
+Fin del log.

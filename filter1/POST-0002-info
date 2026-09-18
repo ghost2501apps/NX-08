@@ -1,0 +1,11 @@
+OP-M cuenta que cuando encendió su notebook, se quedó con la pantalla negra y después apareció un mensaje raro en el navegador.
+Aparecía "redireccionando" ( en la pantalla aparece "fallback via NODE-L"), en la red, hacia un nodo antiguo activo (en la red ARCNET), que no estaba en el mapa.
+
+Es decir, luego de la pantalla negra, aparece el navegador redireccionando hacia una red antigua, via la red principal (NODE-L).
+
+Describe que la interfaz es lenta y antigua.
+Encuentra un archivo incompleto llamado "XR-17"
+
+El sistema de la notebook se estabiliza y se cierra la sesión automáticamente. La interfaz vuelve a la normalidad. Se estabiliza el mapa.
+
+Pero OP-M busca el cache y encuentra el archivo XR-17, lo aisla para analizarlo después offline.

@@ -1,0 +1,7 @@
+Cambio de escena - OP-M en Delta
+
+OP-M vuelve a encender sistemas mínimos.
+
+El módulo donde está XR-17 empieza a generar microfluctuaciones, como si estuviera ejecutando procesos en segundo plano. El módulo está desconectado de la red, pero intenta obtener datos del entorno. Eso no le gusta a OP-M, ya que el módulo puede ser rastreado más adelante si sigue así.
+
+Hace un backup fragmentado de XR-17 y planea su siguiente destino (evacuación rápida)

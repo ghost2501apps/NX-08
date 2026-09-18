@@ -1,0 +1,53 @@
+POST-0002 - Incidente de Red Local
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Nodo Abierto - Delta
+Hora local: Ciclo 4312.42
+
+---
+
+Hoy el visor no respondió normal.
+
+Abrí la interfaz y quedó en negro.
+Después apareció un mensaje raro:
+
+NET-VIEW 3.7 — fallback route via NODE-L
+
+No toqué nada. Esperé.
+
+Cuando cargó, no mostró el índice regional.
+Mostró un nodo viejo que no estaba en el mapa.
+
+El identificador decía:
+
+ARCNET // legacy endpoint
+
+Nunca había visto ARCNET activo. Pensé que ya no quedaban instancias funcionando.
+
+Entré por curiosidad.
+
+La interfaz era lenta, sin capas gráficas, puro texto.
+Había archivos bloqueados y uno marcado como:
+
+XR-17 // incomplete record
+
+No lo abrí.
+El sistema empezó a emitir alertas de sincronización.
+
+NET-VIEW cerró la sesión solo.
+NODE-L volvió a enrutar el tráfico y el nodo desapareció del índice.
+
+Ahora el mapa está normal otra vez.
+
+Pero el visor guarda cache local.
+Y XR-17 sigue listado.
+
+No sé si fue un error.
+O si alguien dejó eso ahí a propósito.
+
+Voy a aislar el archivo y copiarlo offline.
+
+- Si desaparezco, revisen ese registro.
+
+Fin del log.

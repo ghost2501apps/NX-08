@@ -1,0 +1,12 @@
+Como el consumo de XR-17 empezó a oscilar, el módulo secundario no conseguía seguirle el ritmo (estaba en modo consumo mínimo).
+
+El control/sensor ambiental se desactivó por la oscilación de energía. Explotaron 2 fusibles, ya que XR-17 inestabilizaba la red eléctrica de la notebook.
+
+Desconectó XR-17. Activó fuente de energía de emergencia (de la notebook) y hizo un respaldo (la dejó en modo respaldo pasivo).
+
+Revisó los logs de la notebook, ya desconectada de XR-17. Notó que XR-17 no consumió más energía de lo que esperaba, sino que cambió el patrón de energía. Es como si la energía estuviera tratando de adaptarse (a XR-17, a la notebook y al entorno).
+
+Por lo tanto, el aislamiento podría estar comprometido.
+[la notebook podría estar infectada]
+
+Como el módulo no consigue estabilizarse correctamente y hay una caída en la estación, decide llevar XR-17 a otro lugar. Cambia periféricos/protocolos y decide ir a una estructura más antigua, donde sea más difícil ser rastreado o detectado.

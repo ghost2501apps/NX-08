@@ -1,0 +1,27 @@
+OP-M empezó a ver tráfico extraño en su vizor, era una fuente desconocida escaneando, estaba forzando la red para obtener/extraer archivos de su notebook. Eran los recolectores tratando de obtener archivos.
+
+Se da cuenta de que XR-17 no está lo suficientemente aislado o protegido para ese ataque, y desconecta la notebook de  internet y de la red eléctrica.
+
+Cuando reinicia, ve que el escaneo está detenido y no hay tráfico anormal
+
+Pero en los logs aparece un registro que se trató de copiar el archivo / crear un espejo para sincronizarse remotamente.
+
+OP-M mueve el archivo a un entorno más seguro en la notebook (por ejemplo, una máquina virtual)
+
+---
+
+Estado actual del arco (para ti, no visible al lector)
+
+XR-17 introducido ✔
+
+ARCNET activo ✔
+
+NODE-L anomalía ✔
+
+Recolectores interesados ✔
+
+Tensión escalada ✔
+
+Arco abierto ✔
+
+Nada cerrado aún. Perfecto para continuidad.

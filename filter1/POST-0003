@@ -1,0 +1,48 @@
+POST-0003 - Detección Externa
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Nodo Abierto - Delta
+Hora local: Ciclo 4312.58
+
+---
+
+No pasó ni una hora.
+
+NET-VIEW empezó a generar tráfico extraño. Eran pings dirigidos.
+
+El visor mostró esto antes de congelarse:
+
+External scan detected
+Route signature: unknown
+
+NODE-L intentó desviar el flujo, pero alguien estaba forzando el canal.
+
+Reconocí el patrón.
+Recolectores.
+
+No atacaron el nodo directamente.
+Intentaron copiar el índice de cache local.
+
+Eso significa una cosa:
+XR-17 no estaba oculto.
+
+Desconecté el enlace físico y corté energía durante treinta segundos.
+Cuando reinicié, el tráfico había parado.
+
+El archivo sigue aquí.
+Pero ahora está marcado:
+
+status: mirrored attempt detected
+
+No sé cómo supieron de ARCNET.
+O si simplemente cazan cualquier cosa que huela a legado antiguo.
+
+Delta sigue tranquila afuera.
+Pero la red ya no lo está.
+
+Voy a mover el registro a almacenamiento frío.
+
+Si vuelven a escanear, no quiero que encuentren nada.
+
+Fin del log.
