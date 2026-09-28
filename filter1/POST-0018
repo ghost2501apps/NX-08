@@ -1,0 +1,44 @@
+POST-0018 — Solicitud
+
+Tipo: PERSONAL LOG
+Autor: OP-M
+Origen: Estación Industrial Baja
+Hora local: Ciclo 4314.19
+
+XR-17 abrió un canal local sin tocar red externa.
+
+#No fue interfaz completa. Apareció solo una petición básica por puerto directo:
+Apareció solo una peticiòn básica por puerto directo:
+
+request: minimal input
+scope: environment reference
+permission: local
+
+No pide acceso a NODE-L, ni a NET-VIEW, ni a almacenamiento externo. Solo quiere leer variables del entorno de la estación: energía disponible, temperatura, estado de hardware cercano.
+
+Le di acceso limitado. Sensorial, sin escritura.
+
+Después de eso el módulo ajustó su patrón interno otra vez. No aumentó consumo, pero reorganizó procesos. El estado cambió a:
+
+proc-state: partial adaptive
+
+No generó salida adicional. No intentó abrir nuevos canales. No parece un comportamiento hostil.
+
+Voy a mantener esta interacción en modo lectura solamente. Si intenta escalar permisos o pedir acceso a red, corto todo.
+
+[Por ahora XR-17 no está hablando.
+Está observando.]
+
+Fin del log.
+
+---
+
+Estado XR-17:
+
+Canal local abierto ✔
+
+Solicitud mínima ✔
+
+Acceso sensorial concedido ✔
+
+Modo adaptativo activo ✔
