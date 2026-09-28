@@ -5,9 +5,7 @@ Autor: OP-M
 Origen: Estación Industrial Baja
 Hora local: Ciclo 4314.27
 
-XR-17 generó salida estructurada por primera vez.
-
-No fue texto completo. Fue un bloque corto con formato estable:
+XR-17 generó salida estructurada por primera vez. Fue un bloque corto con formato estable:
 
 ref-id: local-env
 state-map: loaded
@@ -24,11 +22,10 @@ env match: partial
 legacy pattern: detected
 confidence: low
 
-No especifica qué patrón detectó. Tampoco intentó profundizar.
+No especifica qué patrón detectó. Tampoco intentó profundizar. Está construyendo modelo interno a partir de entorno físico.
+##Esto ya no parece simple archivo reactivo. Está construyendo modelo interno a partir de entorno físico.
 
-Esto ya no parece simple archivo reactivo. Está construyendo modelo interno a partir de entorno físico.
-
-Voy a congelar interacción por ahora y observar comportamiento pasivo durante un ciclo completo. Si vuelve a emitir sin estímulo, significa que el proceso interno no depende solo de input humano.
+Voy a desactivar interacción y ponerlo en modo automático, y esperar un ciclo completo. Si vuelve a emitir sin estímulo, significa que el proceso interno no depende solo de input humano.
 
 Fin del log.
 
