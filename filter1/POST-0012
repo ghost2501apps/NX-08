@@ -5,19 +5,41 @@ Autor: OP-F
 Origen: Zona Costera Industrial — Nodo Portuario
 Hora local: Ciclo 4313.52
 
-Llegué al puerto al mediodía. La red acá es más estable que en el norte, pero NODE-L sigue metiendo latencia irregular. NET-VIEW corre en build viejo, suficiente para mapas y tráfico básico.
+---
 
-Vine por repuestos hidráulicos, pero el muelle estaba más activo de lo normal. No por comercio. Por movimiento técnico.
+[personaje nuevo (femenino), paisaje hacia los puertos]
+#Llegué al puerto al mediodía. La red acá es más estable que en el norte, pero NODE-L sigue metiendo latencia irregular. NET-VIEW corre en build viejo, suficiente para mapas y tráfico básico.
+
+Llegué al puerto al mediodía.
+
+La red acá todavía no es estable, así que tenemos que usar un build antiguo del navegador, para que sea más rápido (suficiente para lo que necesitamos)
+
+#La red acá es más estable que en el norte, pero como hay mucha latencia el navegador corre en una versión antigua para que sea más rápido, suficiente para lo que necesitamos.
+
+#Vine por repuestos hidráulicos, pero el muelle estaba más activo de lo normal. No por comercio. Por movimiento técnico.
+
+Vine por respuestos hidráulicos, pero el muelle estaba más activo de lo normal.
 
 Vi a un grupo descargando módulos sellados desde un carguero autónomo viejo. No usaban marcas visibles. Solo códigos cortos en los contenedores. Uno repetido varias veces: “17”.
 
-No pregunté. Me acerqué lo suficiente para leer telemetría abierta. Los módulos estaban en estado pasivo, pero con consumo interno bajo constante. No es típico para carga muerta.
+-
 
-Un operador del puerto comentó que el carguero no venía registrado en rutas públicas. Entró directo por canal NODE-L secundario y soltó carga sin handshake formal.
+[escena de ella en un esconderijo, cerca del objetivo]
 
-Eso no es tráfico civil.
+No pregunté. Me acerqué lo suficiente para leer telemetría abierta.
 
-Voy a quedarme cerca del nodo portuario. Si XR-17 se está moviendo por rutas físicas, este lugar puede ser punto intermedio.
+(mostrar pantalla)
+#Los módulos estaban en estado pasivo, pero con consumo interno bajo constante. No es típico para carga muerta.
+Los módulos estaban en estado pasivo, pero con consumo constante, eso quiere decir que están procesando algo.
+
+[en un reporte (o en un log), encontró un reporte de un operador (para la pantalla es esto)]
+#Un operador del puerto comentó que el carguero no venía registrado en rutas públicas. Entró directo por canal NODE-L secundario y soltó carga sin handshake formal (sin cumplir todos los protocolos)
+Un operador del puerto comentó que el carguero no venía registrado en rutas públicas. Entró directo por canal NODE-L secundario y soltó carga sin cumplir todos los protocolos.
+
+[no es tráfico civil / no es tráfico normal]
+
+Voy a quedarme cerca del nodo portuario, este lugar puede ser punto intermedio (para?) (para saber lo que está pasando, (ella tiene que saber lo que pasa en la ciudad))
+#Si XR-17 se está moviendo por rutas físicas, este lugar puede ser punto intermedio.
 
 Fin del log.
 
