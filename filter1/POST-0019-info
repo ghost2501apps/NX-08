@@ -1,0 +1,5 @@
+xr muestra una salida simple con request para obtener dstos del ambiente.
+op-m le da permisos limitados y lo deja procesando
+después de unos minutos xr muestra que encontró un patrón parcial.
+op-f se da cuenta que xr está construyendo un modelo basado en el entorno.
+lo deja en modo bajo consumo y automático, entendiendo wue no debe realizar tareas sospechosas, para cortarlo en caso se descontrole 

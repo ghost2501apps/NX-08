@@ -27,7 +27,8 @@ legacy pattern: detected
 confidence: low
 
 [encontro un patrón parcial, imexacto]
-No especifica qué patrón detectó. Tampoco intentó profundizar. Está construyendo modelo interno a partir de entorno físico.
+No especifica qué patrón detectó. Tampoco intentó profundizar. Está construyendo un modelo interno a partir de entorno físico.
+#No especifica qué patrón detectó. Tampoco intentó profundizar. Está construyendo modelo interno a partir de entorno físico.
 ##Esto ya no parece simple archivo reactivo. Está construyendo modelo interno a partir de entorno físico.
 
 Voy a ponerlo en modo automático y bajo consumo. Si vuelve a emitir estímulo, significa que el proceso no depende solo de input humano.
