@@ -1,11 +1,11 @@
 OP-M translada el chip (el módulo) con problemas de energía, ya que el módulo reacciona de um modo extraño a la red y no se adapta completamente, buscando patrones (está en modo energía pasiva), (y puede ser más fácil ser rastreado)
 
-al llegar hasta el lugar definido (un nodo abandonado) el módulonhace match con el entorno eléctrico y térmico y empieza a procesar normalmente.
+al llegar hasta el lugar definido (un nodo abandonado) el módulo hace match con el entorno eléctrico y térmico y empieza a procesar normalmente.
 
 aparece una salida en el módulo, 'matched' y 'adapting...'
 
 el riesgo sigue ya que el módulo puede extenderse
 
-preparó un contenedornde aislamiento adicional pornsintenga que salir rápido nuevamente
+preparó un contenedor de aislamiento adicional por si tenga que salir rápido nuevamente
 
 se quedó observando, para decidir si había que seguir conteniéndolo o interactuar con él.
