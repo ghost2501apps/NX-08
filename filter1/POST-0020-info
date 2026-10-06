@@ -1,0 +1,9 @@
+Se registra en el sector una leve variación de energía, NODE-L lo detecta como anomalía menor. (sucede cuando se instalan cargas mayores, y la carga actual es poca (consumo actual del equipo)).
+
+El regulador recibe una descarga de energía para compensar la anomalía.
+
+OP-M revisa logs del módulo, la variación coincide con un pico interno en el procesamiento, pero no cambia el consumo de energía. Solo la forma en que usa la energía. De todas formas, XR-17 está totalmente desconectado de la red.
+
+OP-M agrega filtros de energía y baja la frecuencia del procesador.
+
+Lo deja en el modo automático y sin inputs, esperando que el modelo evolucione lentamente para que no generr patrones de energía fáciles de detectar por la red.
